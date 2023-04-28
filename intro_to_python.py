@@ -1,8 +1,8 @@
-# Goudi Dwaish
-# COT4500-23Spring 0001
-# JAN 25, 2023
-# Intro to GetHub and Python
-# Professor Juna Parra
+// Goudi Dwaish
+// COT4500-23Spring 0001
+// JAN 25, 2023
+// Intro to GetHub and Python
+// Professor Juna Parra
 
 import numpy as np
 
